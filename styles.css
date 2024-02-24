@@ -1,0 +1,82 @@
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    margin-top: 30px;
+    /* Optional: Add some space above the search bar */
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+}
+
+.search-input {
+    padding: 5px;
+    width: 500px;
+    /* Adjust the width as needed */
+}
+
+.search-button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+.title-bar {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title {
+    font-size: 30px;
+    color: blue;
+    font-family: fantasy;
+    text-align: left;
+    align-items: start;
+}
+
+.actions {
+    display: flex;
+}
+
+.actions a {
+    padding: 10px 20px;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.actions a:hover {
+    background-color: black;
+}
